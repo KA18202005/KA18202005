@@ -21,7 +21,7 @@ Currently focused on transforming ideas into real-world AI products and continuo
 
 ## 🔭 Currently Working On
 
-### 🧠 RecallAI (Upcoming)
+### 🧠 Memora (Upcoming)
 
 An AI-powered Personal Knowledge Memory System that:
 
