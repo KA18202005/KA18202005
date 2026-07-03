@@ -1,158 +1,193 @@
-# Hi 👋 I'm Kavya Agarwal
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kavya+Agarwal;AI+Engineer+Aspirant;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Products" />
+</p>
 
-### AI Engineer Aspirant | Full-Stack Developer | Problem Solver
+<h1 align="center">Hi 👋, I'm Kavya Agarwal</h1>
 
-Building intelligent applications using Machine Learning, FastAPI, Next.js, and Generative AI.
+<h3 align="center">
+AI Engineer Aspirant • Full Stack Developer • Problem Solver
+</h3>
 
-Currently focused on transforming ideas into real-world AI products and continuously improving my problem-solving skills through Data Structures & Algorithms.
+<p align="center">
+Building intelligent applications using Machine Learning, FastAPI, Next.js and Generative AI.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KA18202005&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 B.Tech Computer Science Student
-* 💡 Passionate about Artificial Intelligence and Software Development
-* 🧠 Exploring Machine Learning, Deep Learning, and Generative AI
-* ⚡ Building AI-powered applications with FastAPI and Next.js
-* 📚 Learning every day and sharing my work through projects
-* 🎯 Goal: Become an AI Engineer and build impactful products
+- 🎓 B.Tech Computer Science Student
+- 💡 Passionate about Artificial Intelligence & Software Development
+- 🧠 Exploring Machine Learning, Deep Learning & Generative AI
+- ⚡ Building AI-powered applications with FastAPI & Next.js
+- 📚 Solving Data Structures & Algorithms problems regularly
+- 🎯 Goal: Become an AI Engineer and build impactful AI products
 
 ---
 
-## 🔭 Currently Working On
+# 🔭 Currently Working On
 
-### 🧠 Memora (Upcoming)
+## 🧠 Memora
 
 An AI-powered Personal Knowledge Memory System that:
 
-* Stores and organizes learning materials
-* Builds knowledge graphs automatically
-* Predicts knowledge decay using Machine Learning
-* Generates personalized revision recommendations
-* Helps users remember what they learn
+- 📄 Stores and organizes PDFs, notes & learning resources
+- 🧠 Performs semantic search using RAG
+- 🌐 Generates Knowledge Graphs automatically
+- 📅 Creates intelligent revision schedules
+- 📈 Predicts knowledge retention using Machine Learning
+- 🤖 Provides AI-powered question answering
+
+**Tech Stack**
+
+FastAPI • Next.js • MongoDB • ChromaDB • Gemini API • Machine Learning
 
 ---
 
-## 🏆 Featured Projects
+# 🏆 Featured Projects
 
-### 🎯 InterviewAI
+## 🎯 InterviewAI
 
-AI-powered interview preparation platform that helps users:
+AI-powered interview preparation platform featuring:
 
-* Analyze resumes
-* Match resumes with job descriptions
-* Generate interview questions
-* Conduct AI-powered mock interviews
-* Receive personalized feedback
+- ATS Resume Analysis
+- Resume vs Job Description Matching
+- AI Mock Interviews
+- Personalized Feedback
+- JWT Authentication
 
-**Tech Stack:** FastAPI, MongoDB, Gemini API, JWT Authentication
-
----
-
-### 📊 WhatsApp Chat Analyzer
-
-Analyzes WhatsApp chat exports and generates insights such as:
-
-* Activity timelines
-* Most active users
-* Word clouds
-* Message statistics
-
-**Tech Stack:** Python, Pandas, Matplotlib, Streamlit
+**Tech:** FastAPI • MongoDB • Gemini API • Next.js
 
 ---
 
-### 📩 SMS Spam Classifier
+## 📊 WhatsApp Chat Analyzer
 
-NLP-powered spam detection system that classifies SMS messages as:
+Analyze exported WhatsApp chats with:
 
-* Spam
-* Ham
+- Activity Timeline
+- Word Clouds
+- User Statistics
+- Emoji Analysis
 
-**Tech Stack:** Python, NLTK, Scikit-Learn, Streamlit
-
----
-
-### 🎬 Movie Recommender System
-
-Content-based recommendation system that suggests movies based on similarity analysis.
-
-**Tech Stack:** Python, Pandas, Scikit-Learn
+**Tech:** Python • Pandas • Matplotlib • Streamlit
 
 ---
 
-### 🚗 Car Price Predictor
+## 📩 SMS Spam Classifier
 
-Machine Learning application that predicts the market price of used cars based on multiple vehicle attributes.
+Machine Learning powered spam detection system.
 
-**Tech Stack:** Python, Flask, Scikit-Learn
+**Tech:** Python • NLTK • Scikit-Learn • Streamlit
 
 ---
 
-## 💻 Tech Stack
+## 🎬 Movie Recommender System
+
+Content-based recommendation engine.
+
+**Tech:** Python • Pandas • Scikit-Learn
+
+---
+
+## 🚗 Car Price Predictor
+
+Predicts used car prices using Machine Learning.
+
+**Tech:** Python • Flask • Scikit-Learn
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases
+### AI / ML
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F7D?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7952B3?style=for-the-badge)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-
-
----
-
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KA18202005&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KA18202005&theme=tokyonight)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=KA18202005&theme=tokyonight&layout=compact)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🎯 2026 Goals
+# 📈 GitHub Statistics
 
-* Build and launch RecallAI
-* Complete Deep Learning specialization
-* Learn MLOps fundamentals
-* Contribute to Open Source
-* Secure an AI / Software Engineering Internship
-* Build products used by real people
+<p align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=KA18202005&theme=tokyonight"/>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=KA18202005&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KA18202005&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 Contribution Graph
 
-* GitHub: https://github.com/KA18202005
-* LinkedIn: https://www.linkedin.com/in/kavya-agarwal-8939a8312/
-* Email: kavyaag1617@gmail.com
+[![Kavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KA18202005&theme=tokyo-night)](https://github.com/KA18202005)
 
 ---
 
-### ⭐ Building today for the opportunities of tomorrow.
+# 🌐 Connect With Me
 
+<p align="center">
 
-### ⭐ "Build. Learn. Improve. Repeat."
+<a href="https://github.com/KA18202005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kavya-agarwal-8939a8312/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Anoymous_User1820/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:kavyaag1617@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Build • Learn • Improve • Repeat ✨
+</h3>
