@@ -125,11 +125,11 @@ Machine Learning application that predicts the market price of used cars based o
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KA18202005\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KA18202005&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KA18202005\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=KA18202005&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KA18202005\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KA18202005&layout=compact&theme=tokyonight)
 
 ---
 
