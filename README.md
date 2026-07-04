@@ -29,26 +29,23 @@ Building intelligent applications using Machine Learning, FastAPI, Next.js and G
 
 ---
 
-# 🔭 Currently Working On
+# 🏆 Featured Projects
 
 ## 🧠 Memora
 
-An AI-powered Personal Knowledge Memory System that:
+AI-powered Personal Knowledge Management platform featuring:
 
-- 📄 Stores and organizes PDFs, notes & learning resources
-- 🧠 Performs semantic search using RAG
-- 🌐 Generates Knowledge Graphs automatically
-- 📅 Creates intelligent revision schedules
-- 📈 Predicts knowledge retention using Machine Learning
-- 🤖 Provides AI-powered question answering
+- AI Document Chat (RAG)
+- Semantic Search
+- Knowledge Graph Visualization
+- AI Revision Engine
+- Learning Analytics Dashboard
+- JWT Authentication
+- Cloud Deployment (Vercel & Railway)
 
-**Tech Stack**
-
-FastAPI • Next.js • MongoDB • ChromaDB • Gemini API • Machine Learning
+**Tech:** Next.js • FastAPI • MongoDB Atlas • Qdrant Cloud • Gemini API • Sentence Transformers
 
 ---
-
-# 🏆 Featured Projects
 
 ## 🎯 InterviewAI
 
@@ -60,7 +57,7 @@ AI-powered interview preparation platform featuring:
 - Personalized Feedback
 - JWT Authentication
 
-**Tech:** FastAPI • MongoDB • Gemini API • Next.js
+**Tech:** Next.js • FastAPI • MongoDB Atlas • Gemini API
 
 ---
 
@@ -79,7 +76,7 @@ Analyze exported WhatsApp chats with:
 
 ## 📩 SMS Spam Classifier
 
-Machine Learning powered spam detection system.
+Machine Learning-powered spam detection system.
 
 **Tech:** Python • NLTK • Scikit-Learn • Streamlit
 
@@ -87,7 +84,7 @@ Machine Learning powered spam detection system.
 
 ## 🎬 Movie Recommender System
 
-Content-based recommendation engine.
+Content-based recommendation engine for personalized movie suggestions.
 
 **Tech:** Python • Pandas • Scikit-Learn
 
@@ -95,7 +92,7 @@ Content-based recommendation engine.
 
 ## 🚗 Car Price Predictor
 
-Predicts used car prices using Machine Learning.
+Machine Learning model for predicting used car prices based on vehicle attributes.
 
 **Tech:** Python • Flask • Scikit-Learn
 
