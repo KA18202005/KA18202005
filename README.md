@@ -16,6 +16,14 @@ Building intelligent applications using Machine Learning, FastAPI, Next.js and G
 <img src="https://komarev.com/ghpvc/?username=KA18202005&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+
+<a href="https://my-portfolio-lake-phi-27.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-ff2a2a?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 # 🚀 About Me
