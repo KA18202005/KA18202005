@@ -173,6 +173,10 @@ Machine Learning model for predicting used car prices based on vehicle attribute
 
 <p align="center">
 
+<a href="https://my-portfolio-lake-phi-27.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-ff2a2a?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/KA18202005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
