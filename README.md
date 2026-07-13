@@ -33,7 +33,7 @@ Building intelligent applications using Machine Learning, FastAPI, Next.js and G
 - 🧠 Exploring Machine Learning, Deep Learning & Generative AI
 - ⚡ Building AI-powered applications with FastAPI & Next.js
 - 📚 Solving Data Structures & Algorithms problems regularly
-- 🎯 Goal: Become an AI Engineer and build impactful AI products
+- 🎯 Goal: Become an AI/ML Engineer and build impactful AI products
 
 ---
 
