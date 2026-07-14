@@ -98,13 +98,6 @@ Content-based recommendation engine for personalized movie suggestions.
 
 ---
 
-## 🚗 Car Price Predictor
-
-Machine Learning model for predicting used car prices based on vehicle attributes.
-
-**Tech:** Python • Flask • Scikit-Learn
-
----
 
 # 💻 Tech Stack
 
