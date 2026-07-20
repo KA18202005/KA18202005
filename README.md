@@ -21,7 +21,6 @@ Building intelligent applications using Machine Learning, FastAPI, Next.js and G
 <a href="https://my-portfolio-lake-phi-27.vercel.app">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-ff2a2a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 </p>
 
 ---
