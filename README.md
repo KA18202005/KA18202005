@@ -148,7 +148,7 @@ Content-based recommendation engine for personalized movie suggestions.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=KA18202005&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=KA18202005&theme=tokyonight"/>
 
 </p>
 
