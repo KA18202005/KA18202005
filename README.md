@@ -7,7 +7,6 @@
 <h3 align="center">
 AI Engineer Aspirant • Full Stack Developer • Problem Solver
 </h3>
-
 <p align="center">
 Building intelligent applications using Machine Learning, FastAPI, Next.js and Generative AI.
 </p>
