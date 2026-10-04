@@ -24,10 +24,6 @@ Building AI-powered and full-stack applications using LLMs, RAG, AI Agents, Fast
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KA18202005&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 # 🚀 About Me
