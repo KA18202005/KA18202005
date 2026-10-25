@@ -266,7 +266,6 @@ https://github.com/KA18202005/LangGraph-Blog-Writing-Agent
 <a href="mailto:kavyaag1617@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
