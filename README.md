@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Kavya+Agarwal;AI%2FML+Engineer;Full+Stack+Developer;Building+AI-Powered+Applications;1400%2B+DSA+Problems+%7C+2000%2B+LeetCode+Rating" />
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Kavya Agarwal</h1>
 
 <h3 align="center">
